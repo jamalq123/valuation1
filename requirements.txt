@@ -1,15 +1,7 @@
-# LangChain Core
-langchain
-langchain-core
-streamlit
-typing
-numpy_financial
-langchain_groq
-langgraph.graph
-
-# Environment Variable Management
-python-dotenv
-
-# Machine Learning Utilities
-numpy
-
+streamlit>=1.31.0
+numpy>=1.26.0
+numpy-financial>=1.0.0
+langchain>=0.1.20
+langchain-groq>=0.1.5
+langgraph>=0.0.40
+python-dotenv>=1.0.0
